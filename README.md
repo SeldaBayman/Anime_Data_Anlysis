@@ -1,4 +1,4 @@
-# Anime_Data_Anlysis
+# Anime_Data_Analysis
 Anime Data Filtering and Sorting with ,Pandas,Matplotlib,Seaborn
 
 Details about the dataset
