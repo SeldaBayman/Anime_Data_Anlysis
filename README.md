@@ -1,6 +1,9 @@
 # Anime_Data_Analysis
 Anime Data Filtering and Sorting with ,Pandas,Matplotlib,Seaborn
 
+![Fullmetal-Alchemist-Brotherhood-anime](https://github.com/SeldaBayman/Anime_Data_Anlysis/assets/163858720/92f7ca61-3662-4c27-9452-5234548c4f0f)
+
+
 Details about the dataset
 Welcome to the Anime Data Analysis Project! In this project, we're going to dive into the exciting world of anime using the popular data analysis library (Pandas).
 
