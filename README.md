@@ -11,6 +11,9 @@ We have a dataset containing information about various anime shows. This informa
 
 This project is perfect for beginners who are interested in practicing the above-mentioned skills using .loc[], .iloc[], .query(), .sort_values() functions using pandas library. Whether you're an anime fan curious about the data behind your favorite shows or a beginner in data analysis looking for a fun project, you're in the right place!, Without any further delay Let's get started!
 
+![indir (1)](https://github.com/SeldaBayman/Anime_Data_Anlysis/assets/163858720/551b33f2-64c1-436b-8188-10f1a7a02667)
+
+
 Details about the dataset
 Title: This contains the titles of different anime.
 Genres: This column lists the genres or categories to which each anime belongs.
@@ -21,6 +24,17 @@ Episodes: This column denotes the number of episodes available for each anime.
 Episode_Length(In min): This column specifies the length of each episode in terms of minutes.
 Release Date: This column represents the release date of each anime.
 Release_Year: This column represents the year in which the anime is released.
+
+Some of graphics about data:)
+
+![1__](https://github.com/SeldaBayman/Anime_Data_Anlysis/assets/163858720/d8b37476-b169-4d91-a83f-3fa7c3eb92ad)![indir (2)]
+(https://github.com/SeldaBayman/Anime_Data_Anlysis/assets/163858720/246c4aba-b6e9-4290-be92-d74891777654)
+
+![indir](https://github.com/SeldaBayman/Anime_Data_Anlysis/assets/163858720/fc0175b3-1211-41bf-a5b5-707df3fd62ad)
+
+
+![Uploading indir (2).png…]()
+
 
 NOTE:
 
