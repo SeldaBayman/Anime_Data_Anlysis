@@ -32,8 +32,9 @@ Some of graphics about data:)
 
 ![indir](https://github.com/SeldaBayman/Anime_Data_Anlysis/assets/163858720/fc0175b3-1211-41bf-a5b5-707df3fd62ad)
 
+![indir (3)](https://github.com/SeldaBayman/Anime_Data_Anlysis/assets/163858720/120647d1-12bf-45e5-b486-008ba939a309)
 
-![Uploading indir (2).png…]()
+![indir (2)](https://github.com/SeldaBayman/Anime_Data_Anlysis/assets/163858720/9e1559f1-3249-4582-a536-146fd929bc12)
 
 
 NOTE:
